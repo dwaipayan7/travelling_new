@@ -38,7 +38,7 @@ const Guide = () => {
                 <p className="regular-16 text-gray-20">Destination</p>
                 <p className="bold-16 text-green-50">48 min</p>
               </div>
-              <p className="bold-20 mt-2">Aguas Calientes</p>
+              <p className="bold-20 mt-2">Manali Area</p>
             </div>
 
             <div className='flex w-full flex-col'>
